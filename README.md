@@ -36,7 +36,7 @@
 - Install dependencies by running `npm install` or `pnpm install`
 - Go to [Discord Developer Portal](https://discord.com/developers/applications) and create a new application
 - Go to `Bot` tab and create a new bot, then copy the token
-- Run `npm start` or `pnpm start`
+- Run `start.bat` 
 - Check if you enabled Community in Discord your server
 - Paste the token when asked and press enter
 - Follow the instructions in the CLI and you're done!
